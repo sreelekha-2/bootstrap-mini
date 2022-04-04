@@ -1,0 +1,20 @@
+
+.watch-logo{
+    width:100px;
+    height:100px;
+}
+.watch-card{
+    height:500px;
+}
+.watch-card:hover{
+    transform: scale(1.1);
+    box-shadow: 2px 2px 19px;
+
+}
+.watch-img{
+    height:50%;
+}
+.icon-container{
+    width:35px;
+    height:35px;
+}
